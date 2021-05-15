@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Holands
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning java & javascript
-- 👾 Holands#0001
